@@ -1,3 +1,6 @@
 This is a test file created to practise the git repository.
 
-making changes in the master.
+
+This second line is added in a new branch
+Another line
+
